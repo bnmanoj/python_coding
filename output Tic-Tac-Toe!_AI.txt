@@ -1,0 +1,94 @@
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+Enter the row (0, 1, or 2): 0
+Enter the column (0, 1, or 2): 1
+  | O |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+AI's turn:
+X | O |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+Enter the row (0, 1, or 2): 2
+Enter the column (0, 1, or 2): 1
+X | O |  
+---------
+  |   |  
+---------
+  | O |  
+---------
+AI's turn:
+X | O |  
+---------
+  | X |  
+---------
+  | O |  
+---------
+Enter the row (0, 1, or 2): 2
+Enter the column (0, 1, or 2): 1
+Cell already occupied. Try again.
+X | O |  
+---------
+  | X |  
+---------
+  | O |  
+---------
+Enter the row (0, 1, or 2): 1
+Enter the column (0, 1, or 2): 1
+Cell already occupied. Try again.
+X | O |  
+---------
+  | X |  
+---------
+  | O |  
+---------
+Enter the row (0, 1, or 2): 2
+Enter the column (0, 1, or 2): 1
+Cell already occupied. Try again.
+X | O |  
+---------
+  | X |  
+---------
+  | O |  
+---------
+Enter the row (0, 1, or 2): 1
+Enter the column (0, 1, or 2): 0
+X | O |  
+---------
+O | X |  
+---------
+  | O |  
+---------
+AI's turn:
+X | O | X
+---------
+O | X |  
+---------
+  | O |  
+---------
+Enter the row (0, 1, or 2): 1
+Enter the column (0, 1, or 2): 2
+X | O | X
+---------
+O | X | O
+---------
+  | O |  
+---------
+AI's turn:
+X | O | X
+---------
+O | X | O
+---------
+X | O |  
+---------
+AI wins!
