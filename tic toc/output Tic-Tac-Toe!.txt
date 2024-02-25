@@ -1,0 +1,111 @@
+Welcome to Tic-Tac-Toe!
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+Player X, enter row (0, 1, or 2): 1
+Player X, enter column (0, 1, or 2): 1
+  |   |  
+---------
+  | X |  
+---------
+  |   |  
+---------
+Player O, enter row (0, 1, or 2): 2
+Player O, enter column (0, 1, or 2): 2
+  |   |  
+---------
+  | X |  
+---------
+  |   | O
+---------
+Player X, enter row (0, 1, or 2): 1
+Player X, enter column (0, 1, or 2): 1
+Invalid move. The cell is already occupied. Try again.
+  |   |  
+---------
+  | X |  
+---------
+  |   | O
+---------
+Player X, enter row (0, 1, or 2): 2
+Player X, enter column (0, 1, or 2): 2
+Invalid move. The cell is already occupied. Try again.
+  |   |  
+---------
+  | X |  
+---------
+  |   | O
+---------
+Player X, enter row (0, 1, or 2): 2
+Player X, enter column (0, 1, or 2): 2
+Invalid move. The cell is already occupied. Try again.
+  |   |  
+---------
+  | X |  
+---------
+  |   | O
+---------
+Player X, enter row (0, 1, or 2): 1
+Player X, enter column (0, 1, or 2): 1
+Invalid move. The cell is already occupied. Try again.
+  |   |  
+---------
+  | X |  
+---------
+  |   | O
+---------
+Player X, enter row (0, 1, or 2): 1
+Player X, enter column (0, 1, or 2): 2
+  |   |  
+---------
+  | X | X
+---------
+  |   | O
+---------
+Player O, enter row (0, 1, or 2): 1
+Player O, enter column (0, 1, or 2): 2
+Invalid move. The cell is already occupied. Try again.
+  |   |  
+---------
+  | X | X
+---------
+  |   | O
+---------
+Player O, enter row (0, 1, or 2): 2
+Player O, enter column (0, 1, or 2): 1
+  |   |  
+---------
+  | X | X
+---------
+  | O | O
+---------
+Player X, enter row (0, 1, or 2): 1
+Player X, enter column (0, 1, or 2): 1
+Invalid move. The cell is already occupied. Try again.
+  |   |  
+---------
+  | X | X
+---------
+  | O | O
+---------
+Player X, enter row (0, 1, or 2): 1
+Player X, enter column (0, 1, or 2): 2
+Invalid move. The cell is already occupied. Try again.
+  |   |  
+---------
+  | X | X
+---------
+  | O | O
+---------
+Player X, enter row (0, 1, or 2): 1
+Player X, enter column (0, 1, or 2): 0
+  |   |  
+---------
+X | X | X
+---------
+  | O | O
+---------
+Player X wins!
